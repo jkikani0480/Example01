@@ -1,0 +1,17 @@
+.fav{
+background-color:blue;
+color:white;
+font-style:italic;
+}
+
+li{
+list-style:none;
+font-size:38pt;
+text-align:center;
+}
+
+.title{
+font-weight:bold;
+font-size:45pt;
+text-align:center;
+}
